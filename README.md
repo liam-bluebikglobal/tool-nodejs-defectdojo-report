@@ -18,6 +18,11 @@ Tool to automate exporting 'Open Finding' reports from DefectDojo for multiple p
    npm install
    ```
 
+2. Install Playwright browsers:
+   ```bash
+   npx playwright install
+   ```
+
 ## Configuration
 
 Create a `.env` file with the following variables:
