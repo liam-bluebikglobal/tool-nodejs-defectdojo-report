@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Output directories
+defectdojo_reports/
+reports/
+
+# Node modules
+node_modules/
+
+# Recorded actions (may contain sensitive data)
+recorded_actions.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log

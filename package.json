@@ -1,0 +1,16 @@
+{
+  "name": "defectdojo-report",
+  "version": "1.0.0",
+  "main": "run_automation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Tool allow export DefectDojo 'Open Finding' reports",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "playwright": "^1.55.0"
+  }
+}
